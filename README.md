@@ -3,7 +3,7 @@
 Deplyed to Heroku at https://agile-meadow-03464.herokuapp.com/
 
 https://guides.rubyonrails.org/getting_started.html 
-Current progress: https://guides.rubyonrails.org/getting_started.html#autoloading 
+Current progress: https://guides.rubyonrails.org/getting_started.html#resourceful-routing
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
