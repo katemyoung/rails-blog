@@ -8,6 +8,10 @@ Current progress: https://guides.rubyonrails.org/getting_started.html#resourcefu
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Start database server: 
+
+`postgres -D /Users/katemyoung/Projects/rails-blog/PGDATA` 
+
 Things you may want to cover:
 
 * Ruby version
